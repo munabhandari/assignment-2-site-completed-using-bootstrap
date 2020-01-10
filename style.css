@@ -1,0 +1,48 @@
+.container-fluid{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+body{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+.bg-bird{
+    background: #1abc9c;
+}
+.mb-0{
+    margin-bottom: 0px ;
+}
+.text-white{
+    color: white;
+}
+
+.text-dark{
+    color: #474e5d;
+}
+
+.bg-dark{
+    background-color: #474e5d;
+}
+.bg-white{
+    background-color: #fff;
+}
+.py-5{
+    padding: 70px 0px;
+}
+.py-4{
+    padding: 50px 0px;
+}
+.py-3{
+    padding: 30px 0px;
+}
+.p-2{
+    padding: 10px;
+}
+.w-100{
+    width: 100%;
+}
+
+footer{
+    background-color: #2f2f2f;
+    padding: 70px 0;
+}
